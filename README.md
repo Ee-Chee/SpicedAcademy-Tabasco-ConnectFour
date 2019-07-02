@@ -27,4 +27,4 @@ Features:
 **_NOTES_**:
 * Coding technologies: HTML, CSS, Javascript, Canvas and Jquery
 * The most challenging part of this project is finding the solution for diagonal winning.
-* In order to deploy only HTML files on Heroku, change index.html to index.php. Heroku will detect it as a PHP site and use that buildpack. OR [this](https://stackoverflow.com/questions/17343354/deploy-html-only-app-to-heroku).
+* In order to deploy only HTML files on Heroku, change index.html to index.php. Heroku will detect it as a PHP site and use that buildpack. OR try [this](https://stackoverflow.com/questions/17343354/deploy-html-only-app-to-heroku).
