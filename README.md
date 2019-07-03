@@ -3,7 +3,7 @@ In this game players take turns dropping their pieces into one of seven columns 
 
 Visit my ConnectFour here and have fun: https://connect4-eechee.herokuapp.com/
 
-Features:
+## Features
 * Welcome and pre-settings page. Users are redirected to a welcome page before game. Here is also where users can select their own colour(only two different colours are allowed) and set their name before a game starts(default name is available).
 
 <img src="connect4-PreGame.png">
